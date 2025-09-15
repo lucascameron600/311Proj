@@ -82,10 +82,12 @@ std::vector<int> quickSort(std::vector<int> &v){
     return sortedA;
 }
 
-
-
-int main(){
+void sortAndGetTimes(std::string indicator){
     
+}
+    
+int main(){
+        
 
     return 0;
 }
